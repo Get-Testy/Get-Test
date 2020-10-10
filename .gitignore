@@ -1,0 +1,8 @@
+world/
+banned-ips.json
+banned-players.json
+logs/
+ops.json
+usernamecache.json
+whitelist.json
+
