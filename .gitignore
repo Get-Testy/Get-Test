@@ -1,8 +1,10 @@
 world/
+.mixin.out/
 banned-ips.json
 banned-players.json
 logs/
 ops.json
+usercache.json
 usernamecache.json
 whitelist.json
 
