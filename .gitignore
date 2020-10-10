@@ -1,4 +1,6 @@
 world/
+backups/
+local/
 .mixin.out/
 banned-ips.json
 banned-players.json
