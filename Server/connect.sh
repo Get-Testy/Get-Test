@@ -1,1 +1,1 @@
-while true; do ssh -R 25565:localhost:25565 142.93.124.124 && break; done
+while true; do ssh -R 25575:localhost:25575 142.93.124.124 && break; done
